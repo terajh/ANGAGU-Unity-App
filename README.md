@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="260" alt="캡처" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5706aeda-e608-45c2-8da7-b56d83f9ff5e/instagram_profile_image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210605%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210605T165102Z&X-Amz-Expires=86400&X-Amz-Signature=e75a85dc498e10e02b80a4c2b9cc96ca256146b75231c6450a9092b0c685ae0b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22instagram_profile_image.png%22">
+
 </p>
 <p align="center">
   <b>
